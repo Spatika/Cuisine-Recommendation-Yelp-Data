@@ -2,7 +2,7 @@
  Recommend top 3 cuisines for 100 customers based on their top 2 cuisines
  
  # Steps
- 1. Read Yelp business and reviews data, merge after filtering out reviews less than 5 stars and businesses not in the Restuarants / Food / Nightlife categories
+ 1. Read Yelp business and reviews data, merge after filtering out reviews less than 3 stars and businesses not in the Restuarants / Food / Nightlife categories
  2. Categorize by different cuisines and write all the reviews to .txt files 
  3. Construct a dataframe where each row represents a document (all the text reviews) for one cuisine
  4. Construct a TfIdf vector (document term matrix) of all the documents in the corpus 
