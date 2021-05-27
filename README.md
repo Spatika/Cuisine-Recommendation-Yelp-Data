@@ -1,5 +1,5 @@
 # Cuisine-Recommendation-Yelp-Data
- Recommend top 3 cuisines for given dataset of 100 customers based on their top 2 cuisines
+ Recommend top 3 cuisines for given dataset of 100 customers based on their most frequently ordered cuisine
  
 # Dataset
 https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json 
